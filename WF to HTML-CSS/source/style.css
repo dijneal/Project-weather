@@ -103,15 +103,15 @@ strong {
   margin: 5px;
 }
 
-#fahren-link {
+#celcius-link {
   text-decoration: none;
   color: black;
 }
 
-#celcius-link {
+#fahren-link {
   color: #a409c4;
 }
 
-#celcius-link:visited {
+#fahren-link:visited {
   color: black;
 }
